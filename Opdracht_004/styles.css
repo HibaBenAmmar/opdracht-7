@@ -1,0 +1,30 @@
+header, main, footer {color:darkblue;
+    border: 10px solid brown;
+    margin: 15px;
+    background-color: darkgray;
+    font-size:large;
+    padding-top: 25px;
+    padding-bottom: 25px;
+    padding-left: 25px;
+    padding-right: 25px;
+    padding: 25px;
+    }
+
+main {margin: auto;
+width: auto;
+}
+
+header, footer {text-align: center;
+}
+
+.navigatiebar{list-style-type: none;
+    margin: 0;
+    padding: 0;
+   }
+
+.navigatiebar li {
+    display: inline;
+  }
+
+
+
